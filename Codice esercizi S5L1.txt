@@ -1,0 +1,39 @@
+studenti = 25
+
+print(studenti)
+
+nuoviStudenti = 3
+
+totStudenti = studenti + nuoviStudenti
+print(totStudenti)
+
+epicode = "Epicode"
+print(epicode)
+
+lista = [0,1,2,3,4,5]
+
+print(lista)
+
+epicodeIniziale=epicode[0]
+print(epicodeIniziale)
+
+epicodePrimeIniziali = epicode[0:3]
+print(epicodePrimeIniziali)
+
+x = 10
+(x+2)*3
+x = (10+2)*3
+print(x)
+
+
+esercizio = str(input("Come ti chiami?"))
+print(esercizio[0:3] + "..." + esercizio[-3:])
+
+windows = len("Windows")
+excel = len("Excel")
+pp = len("Powerpoint")
+word = len("Word")
+print(windows, excel, pp, word)
+
+print("Calcoliamo l'area di un rettangolo.")
+print(int(input("Qual è la lunghezza della base?"))* int(input("Qual è la lunghezza dell'altezza?")))

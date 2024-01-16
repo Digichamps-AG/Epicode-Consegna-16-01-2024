@@ -1,0 +1,24 @@
+Task 1: Accedere al proprio profilo utente nel computer
+1)Collega il computer alla corrente
+2)Premi il pulsante di accensione del computer
+3)Aspetta che il computer ti chieda a quale profilo utente vuoi accedere
+4)Seleziona il profilo utente
+5)Inserisci la password (se necessario)
+
+Task 2: Comprare da un distributore di snack
+1)Decidere quale snack si vuole acquistare
+2)Premere sul tastierino numerico del distributore i tasti corrispondenti a quello snack
+3)Osservare dal display del distributore il denaro richiesto
+4)Prendere dal portafogli il denaro richiesto nel punto precedente
+5)Inserire il denaro nel distributore
+6)Premere sul tastierino numerico del distributore i tasti corrispondenti allo snack scelto
+7)Prendere lo snack dal distributore
+
+
+Task 3: Fare una chiamata
+1)Accendere o sbloccare il telefono
+2)Decidere chi si vuole chiamare
+3)Aprire l'app in cui sono salvati i propri contatti
+4)Digitare nella sezione "cerca" il nome del contatto da chiamare
+5)Selezionare il contatto scelto
+6)Premere il tasto di avvio chiamata
