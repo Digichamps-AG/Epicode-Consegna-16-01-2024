@@ -1,10 +1,10 @@
-
+'''
 un utente inserisce tre parole 
 e il programma produce in output la prima in maiuscolo, 
 la seconda in minuscolo 
 e la terza con l'iniziale maiuscola. 
 Poi prende i primi tre caratteri di ognuna e li stampa a video
-
+'''
 
 parola1 = str(input("Inserisci la parola 1"))
 parola2 = str(input("Inserisci la parola 2"))
@@ -15,9 +15,9 @@ print(parola1.upper()[0:3])
 print(parola2.lower()[0:3])
 
 print(parola3.title()[0:3])
-
+'''
 Un utente inserisce tre parole e il programma stampa il prodotto delle lunghezze delle parole
-
+'''
 
 parola1 = str(input("Inserisci la parola 1"))
 parola2 = str(input("Inserisci la parola 2"))
